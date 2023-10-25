@@ -13,4 +13,4 @@ var recomendar = function (genero) {
 listaDeFilmes.forEach(function (listaDeFilmes) {
     listaDeFilmes.exibirDetalhes();
 });
-recomendar("Romance");
+recomendar("Ação");
